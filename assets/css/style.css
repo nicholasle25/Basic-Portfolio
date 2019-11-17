@@ -1,0 +1,41 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: #4aaaa5;
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#about {
+    float: right;
+    
+}
+
+#portfolio {
+    float: right;
+}
+
+#contact {
+    float: right;
+}
+
+body{
+    clear: left;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5; 
+    clear: left;
+}
+
+img {
+    max-width: 250px;
+    float: left;
+}
+
+
+
