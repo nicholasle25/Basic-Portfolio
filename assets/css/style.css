@@ -1,3 +1,7 @@
+body {
+    background: pink;
+}
+
 h1 {
     background: #4aaaa5;
     color: #ffffff;
@@ -12,6 +16,10 @@ h2 {
 p {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    max-width: 250px;
 }
 
 #header {
@@ -29,7 +37,4 @@ p {
 #footer {
     background: #666666;
     color: #ffffff;
-}
-body {
-    background: pink;
 }
