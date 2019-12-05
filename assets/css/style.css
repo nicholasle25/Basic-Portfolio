@@ -1,5 +1,6 @@
 body {
-    background: pink;
+    background-image: url("assets/images/embossed-diamond.png")
+    /* background: pink; */
 }
 
 h1 {
