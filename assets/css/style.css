@@ -1,13 +1,15 @@
 h1 {
     background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 p {
     color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #header {
