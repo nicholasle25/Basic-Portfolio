@@ -30,7 +30,7 @@ h2 {
     border-bottom: solid #dddddd;
 }
 
-p {
+p, #contact-button, #portfolio-button, #about-button {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -38,7 +38,8 @@ p {
 img {
     max-width: 250px;
     border: solid #dddddd;
-    /* float: left */
+    float: left;
+    margin: 0 25px 0 0;
 }
 
 #header {
@@ -56,6 +57,8 @@ img {
     padding: 25px;
     width: 910px;
     margin: 0 auto;
+    height: auto;
+
 }
 
 .footer {
@@ -64,6 +67,7 @@ img {
     font-size: 10pt;
     text-align: center;
     padding-top: 25px;
+    clear: left;
     /* position: -webkit-sticky;
     position: sticky;
     bottom: 0;
@@ -73,18 +77,8 @@ img {
     /* test positions */
 }
 
-#contact-button {
+#contact-button, #portfolio-button, #about-button {
     /* display: inline; */
     float: right;
-}
-
-#portfolio-button {
-    /* display: inline; */
-    float: right;
-}
-
-#about-button {
-    /* display: inline; */
-    float: right;
-}
-
+    margin: 10px;
+} 
