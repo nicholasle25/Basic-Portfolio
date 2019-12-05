@@ -1,3 +1,30 @@
 h1 {
-    background-color: #4aaaa5;
+    background: #4aaaa5;
+}
+
+h2 {
+
+}
+
+p {
+    color: #777777;
+}
+
+#header {
+    background: #ffffff;
+    border-color: #cccccc;
+    border-style: solid;
+}
+
+#about {
+    background: #ffffff;
+    border-color: #dddddd;
+    border-style: solid;
+}
+
+#footer {
+    background: #666666;
+}
+body {
+    background: pink;
 }
