@@ -1,9 +1,11 @@
 h1 {
     background: #4aaaa5;
+    color: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
+    color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -26,6 +28,7 @@ p {
 
 #footer {
     background: #666666;
+    color: #ffffff;
 }
 body {
     background: pink;
