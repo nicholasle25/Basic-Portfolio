@@ -67,6 +67,24 @@ img {
 
 }
 
+#portfolio {
+    background: #ffffff;
+    border-color: #dddddd;
+    border-style: solid;
+    padding: 25px;
+    width: 910px;
+    margin: 0 auto;
+}
+
+#contact {
+    background: #ffffff;
+    border-color: #dddddd;
+    border-style: solid;
+    padding: 25px;
+    width: 910px;
+    margin: 0 auto;
+}
+
 .footer {
     background: #666666;
     color: #ffffff;
