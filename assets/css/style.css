@@ -80,5 +80,5 @@ img {
 #contact-button, #portfolio-button, #about-button {
     /* display: inline; */
     float: right;
-    margin: 10px;
+    margin: 0 0 0 20px;
 } 
