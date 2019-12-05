@@ -2,16 +2,16 @@ html {
     height: 100%;
 }
 
-.content-wrap {
-    width: 960px;
-    margin: 0 auto;
-}
-
 body {
     background-image: url("../images/embossed-diamond.png");
     margin: 0;
     margin-left: auto;
     margin-right: auto;
+}
+
+.content-wrap {
+    width: 960px;
+    margin: 0 auto;
 }
 
 h1 {
@@ -46,7 +46,7 @@ img {
     border-color: #cccccc;
     border-bottom-style: solid;
     margin-bottom: 25px;
-    padding: 25px 25px 25px 0px;
+    padding: 25px 0px;
 }
 
 #about {
@@ -54,6 +54,8 @@ img {
     border-color: #dddddd;
     border-style: solid;
     padding: 25px;
+    width: 910px;
+    margin: 0 auto;
 }
 
 .footer {
