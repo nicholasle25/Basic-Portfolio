@@ -1,14 +1,19 @@
-html {
+html, body {
     height: 100%;
+    margin: 0;
+    /* min-height: 100%; */
 }
 
 body {
     background-image: url("../images/embossed-diamond.png");
-    margin: 0;
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
 }
 
+.wrapper {
+    min-height: 100%;
+    margin-bottom: 0;
+} 
 .content-wrap {
     width: 960px;
     margin: 0 auto;
@@ -36,7 +41,7 @@ p, #contact-button, #portfolio-button, #about-button {
 }
 
 img {
-    max-width: 250px;
+    max-width: 200px;
     border: solid #dddddd;
     float: left;
     margin: 0 25px 0 0;
@@ -57,7 +62,8 @@ img {
     padding: 25px;
     width: 910px;
     margin: 0 auto;
-    height: auto;
+    /* Can you have it auto height by following the length of the photo? */
+    height: 393.59px;
 
 }
 
@@ -68,13 +74,8 @@ img {
     text-align: center;
     padding-top: 25px;
     clear: left;
-    /* position: -webkit-sticky;
-    position: sticky;
-    bottom: 0;
-    left: 0;
-    width: 100%; */
     border-top: 8px solid #4aaaa5;
-    /* test positions */
+
 }
 
 #contact-button, #portfolio-button, #about-button {
