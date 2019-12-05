@@ -8,7 +8,9 @@ body {
 h1 {
     background: #4aaaa5;
     color: #ffffff;
+    display: inline;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 25px;
 }
 
 h2 {
@@ -16,8 +18,7 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0px 0px 25px 0px;
     padding-bottom: 25px;
-    border-bottom: solid #777777;
-    /* clear: left; */
+    border-bottom: solid #dddddd;
 }
 
 p {
@@ -27,6 +28,7 @@ p {
 
 img {
     max-width: 250px;
+    border: solid #dddddd;
     /* float: left */
 }
 
