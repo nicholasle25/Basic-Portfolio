@@ -1,3 +1,7 @@
+body {
+
+}
+
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
@@ -20,10 +24,6 @@ h1 {
 
 #contact {
     float: right;
-}
-
-body{
-    clear: left;
 }
 
 h2 {
