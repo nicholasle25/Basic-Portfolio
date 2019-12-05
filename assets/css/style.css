@@ -50,6 +50,9 @@ img {
 #footer {
     background: #666666;
     color: #ffffff;
+    font-size: 10pt;
+    text-align: center;
+    padding-top: 25px;
     /* position: -webkit-sticky;
     position: sticky;
     bottom: 0;
