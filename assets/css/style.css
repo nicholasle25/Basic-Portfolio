@@ -72,3 +72,19 @@ img {
     border-top: 8px solid #4aaaa5;
     /* test positions */
 }
+
+#contact-button {
+    /* display: inline; */
+    float: right;
+}
+
+#portfolio-button {
+    /* display: inline; */
+    float: right;
+}
+
+#about-button {
+    /* display: inline; */
+    float: right;
+}
+
